@@ -124,8 +124,3 @@ huggingface_hub
 
 ---
 
-## 📬 Contact
-
-Built with ❤️ by **Your Name**
-
-Feel free to open an issue or contribute via pull request.
