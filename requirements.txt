@@ -1,0 +1,7 @@
+gradio
+pandas
+langchain
+faiss-cpu
+langchain-community
+langchain-huggingface
+huggingface_hub
